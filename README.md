@@ -22,8 +22,8 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jjh0w&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jjh0w&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jjh0w&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjh0w&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
