@@ -5,6 +5,12 @@
   <a href="mailto:jho.tech1970@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://discord.com/users/jhow_dark">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -46,4 +52,6 @@ Aqui você vai encontrar:
 
 ## 🌐 Contato
 📸 Instagram: https://www.instagram.com/jjh0w/  
-📧 Email: jho.tech1970@gmail.com
+📧 Email: jho.tech1970@gmail.com  
+💬 Discord: jhow_dark  
+🔗 LinkedIn: (em breve)
