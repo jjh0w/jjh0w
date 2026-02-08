@@ -13,23 +13,18 @@
   </a>
 </p>
 
----
-
 <h1 align="center">👋 Olá, eu sou Jhonatan</h1>
+
 <p align="center">
 🎮 Desenvolvedor iniciante focado em jogos<br>
 💻 HTML • CSS • JavaScript • C • C# • Unity<br>
 🧠 Estudando lógica, programação e desenvolvimento de jogos
 </p>
 
----
-
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjh0w&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjh0w&layout=compact&langs_count=6&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jjh0w&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jjh0w&layout=compact&theme=radical"/>
 </p>
-
----
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
@@ -38,8 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
 </p>
-
----
 
 ## 🚀 Sobre mim
 Sou um desenvolvedor em formação focado em **game development**, criando projetos com **Unity, C# e C**.  
