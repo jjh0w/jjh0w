@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Olá, eu sou Jhonatan
 
-<!--
-**jjh0w/jjh0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 **Desenvolvedor iniciante focado em jogos**  
+💻 C# • C • Unity  
+🧠 Estudando lógica, programação e desenvolvimento de jogos  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+Sou um desenvolvedor em formação que gosta de aprender criando projetos na prática.  
+Atualmente focado em **game development**, usando **Unity, C# e C**.
+
+---
+
+## 🛠️ Tecnologias
+- C#
+- C
+- Unity
+- Git & GitHub
+- Lógica de Programação
+
+---
+
+## 📌 Projetos
+Aqui você vai encontrar:
+- Jogos 2D
+- Protótipos
+- Estudos de programação
+- Experimentos com Unity
+
+---
+
+## 🌐 Contato
+📸 Instagram: https://instagram.com/seuusuario
