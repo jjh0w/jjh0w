@@ -1,7 +1,8 @@
 name: Metrics
+
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # roda todo dia 00:00
   workflow_dispatch:
 
 jobs:
@@ -15,3 +16,5 @@ jobs:
           template: classic
           base: header, activity, repositories
           config_timezone: America/Sao_Paulo
+          output_action: commit
+          output_location: metrics.svg
