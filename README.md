@@ -23,6 +23,10 @@
 
 ---
 
+![Jhonatan Navarro GitHub stats](https://github-readme-stats.vercel.app/api?username=jjh0w&show_icons=true&theme=radical)
+
+---
+
 ## 🚀 Sobre mim
 Sou um desenvolvedor em formação que gosta de aprender criando projetos na prática.  
 Atualmente focado em **game development**, usando **Unity, C# e C**.
