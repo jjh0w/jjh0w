@@ -13,6 +13,8 @@
   </a>
 </p>
 
+![Metrics](https://raw.githubusercontent.com/jjh0w/jjh0w/main/metrics.svg)
+
 ---
 
 # 👋 Olá, eu sou Jhonatan
