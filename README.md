@@ -15,6 +15,8 @@
 
 ![Metrics](https://raw.githubusercontent.com/jjh0w/jjh0w/main/metrics.svg)
 
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jjh0w&show_icons=true&theme=radical)
+
 ---
 
 # 👋 Olá, eu sou Jhonatan
