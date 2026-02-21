@@ -15,15 +15,49 @@
 
 ---
 
-## 🌌 Sobre mim
+# 🌌 Sobre mim
 
 🎮 Desenvolvedor focado em **criação de jogos**  
-💻 Estudando **C#, Unity, C e JavaScript**  
-🚀 Criando projetos práticos para evoluir constantemente  
+💻 Estudando **C#, Unity, C, JavaScript, HTML e CSS**  
+🚀 Criando **protótipos, sistemas e jogos experimentais**  
+📚 Evoluindo constantemente na área de **Game Development**
 
 ---
 
-## 🌐 Conecte-se comigo
+# 📊 Estatísticas
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jjh0w&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📈 Atividade no GitHub
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjh0w&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🧠 Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,c,js,html,css"/>
+</p>
+
+---
+
+# 🚀 Projetos
+
+🎮 Desenvolvimento de **Jogos 2D na Unity**  
+🧪 **Protótipos de gameplay e mecânicas**  
+⚙️ **Sistemas e algoritmos em C e C#**  
+🕹️ Testes de **física, movimento e IA em jogos**
+
+---
+
+# 🌐 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.instagram.com/jjh0w/">
@@ -39,48 +73,18 @@
 
 ---
 
-# 📊 Estatísticas
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jjh0w&theme=dark&hide_border=true"/>
-</p>
-
----
-
-# 📈 Atividade no GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjh0w&theme=github-dark"/>
-</p>
-
----
-
-# 🧠 Tecnologias
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-</p>
-
----
-
-# 🚀 Projetos
-
-🎮 Jogos 2D  
-🧪 Protótipos experimentais  
-⚙️ Sistemas em C e C#  
-🕹️ Mecânicas e testes de gameplay  
-
----
-
 # 🐍 Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jjh0w/jjh0w/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# ⭐ Curiosidade
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjh0w&theme=tokyonight"/>
 </p>
 
 ---
