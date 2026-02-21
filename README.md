@@ -3,6 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1f1f1f&height=200&section=header&text=Jhonatan%20%7C%20Game%20Developer&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- CONTADOR DE VISITAS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jjh0w&color=blueviolet&style=for-the-badge"/>
+</p>
+
 <!-- TEXTO DIGITANDO -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=22&center=true&vCenter=true&width=500&lines=Unity+Developer;C%23+Programmer;Game+Dev+in+Progress;Always+Learning+🚀" />
@@ -42,6 +47,14 @@
 
 ---
 
+# 📈 Atividade no GitHub
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjh0w&theme=github-dark"/>
+</p>
+
+---
+
 # 🧠 Tecnologias
 
 <p align="center">
@@ -61,6 +74,14 @@
 🧪 Protótipos experimentais  
 ⚙️ Sistemas em C e C#  
 🕹️ Mecânicas e testes de gameplay  
+
+---
+
+# 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jjh0w/jjh0w/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
