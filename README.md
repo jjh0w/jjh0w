@@ -1,6 +1,6 @@
 <!-- SPACE BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2B,40:5F00BA,70:4FD1FF,100:FFFFFF&height=220&section=header&text=Jhonatan%20%7C%20Game%20Developer&fontSize=40&fontColor=4FD1FF&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2B,40:5F00BA,70:4FD1FF,100:FFFFFF&height=220&section=header&text=Jhonatan%20%7C%20Desenvolvedor%20de%20Jogos&fontSize=40&fontColor=4FD1FF&animation=fadeIn" />
 </p>
 
 <!-- SPACE GIF -->
@@ -18,30 +18,30 @@
 <!-- BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity"/>
-  <img src="https://img.shields.io/badge/Code-C%23-239120?style=for-the-badge&logo=csharp"/>
-  <img src="https://img.shields.io/badge/Focus-Game%20Development-5F00BA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-Gameplay%20Systems-4FD1FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Código-C%23-239120?style=for-the-badge&logo=csharp"/>
+  <img src="https://img.shields.io/badge/Foco-Desenvolvimento%20de%20Jogos-5F00BA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Aprendendo-Sistemas%20de%20Gameplay-4FD1FF?style=for-the-badge"/>
 </p>
 
 ---
 
 <!-- TYPING -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4FD1FF&size=22&center=true&vCenter=true&width=500&lines=Unity+Developer;C%23+Programmer;Game+Dev+in+Progress;Exploring+New+Worlds+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=4FD1FF&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+Unity;Programador+C%23;Criando+Jogos;Explorando+Novos+Mundos+🚀" />
 </p>
 
 ---
 
-# 🌌 About Me
+# 🌌 Sobre Mim
 
-🎮 Developer focused on **Game Creation**  
-💻 Studying **C#, Unity, C, JavaScript, HTML and CSS**  
-🚀 Building **gameplay systems and experimental prototypes**  
-📚 Constantly evolving in **Game Development**
+🎮 Desenvolvedor focado em **criação de jogos**  
+💻 Estudando **C#, Unity, C, JavaScript, HTML e CSS**  
+🚀 Construindo **sistemas de gameplay e protótipos experimentais**  
+📚 Evoluindo constantemente em **Game Development**
 
 ---
 
-# 🌠 GitHub Stats
+# 🌠 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=jjh0w&theme=tokyonight&hide_border=true"/>
@@ -49,7 +49,7 @@
 
 ---
 
-# 📈 Activity Graph
+# 📈 Gráfico de Atividade
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjh0w&theme=react-dark&bg_color=0B0F2B&color=4FD1FF&line=5F00BA&point=FFFFFF"/>
@@ -57,7 +57,7 @@
 
 ---
 
-# 🧠 Technologies
+# 🧠 Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,cs,c,js,html,css&theme=dark"/>
@@ -65,16 +65,16 @@
 
 ---
 
-# 🚀 Projects
+# 🚀 Projetos
 
-🎮 **2D Games built with Unity**  
-🧪 Gameplay **mechanics prototypes**  
-⚙️ Systems and **algorithms in C and C#**  
-🕹️ Experiments with **physics, movement and AI**
+🎮 **Jogos 2D feitos com Unity**  
+🧪 Protótipos de **mecânicas de gameplay**  
+⚙️ Sistemas e **algoritmos em C e C#**  
+🕹️ Experimentos com **física, movimento e IA**
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Conecte-se Comigo
 
 <p align="center">
   <a href="https://www.instagram.com/jjh0w/">
@@ -90,10 +90,10 @@
 
 ---
 
-# 🐍 Contribution System
+# 🐍 Sistema de Contribuição
 
 <p align="center">
-🌌 GALAXY CONTRIBUTION SYSTEM
+🌌 SISTEMA DE CONTRIBUIÇÃO GALÁCTICA
 </p>
 
 <p align="center">
@@ -101,7 +101,7 @@
 </p>
 
 <p align="center">
-⚡ STATUS: COSMIC SNAKE ACTIVE
+⚡ STATUS: COBRA CÓSMICA ATIVA
 </p>
 
 <p align="center">
@@ -109,12 +109,12 @@
 </p>
 
 <p align="center">
-💻 COMMITS → ENERGY FOR THE GALAXY  
-🧠 XP → GITHUB CONTRIBUTIONS
+💻 COMMITS → ENERGIA PARA A GALÁXIA  
+🧠 XP → CONTRIBUIÇÕES NO GITHUB
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/System-Galaxy%20Online-4FD1FF?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Sistema-Galáxia%20Online-4FD1FF?style=for-the-badge&logo=github"/>
 </p>
 
 <p align="center">
@@ -123,7 +123,7 @@
 
 ---
 
-# ⭐ Profile Details
+# ⭐ Detalhes do Perfil
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjh0w&theme=tokyonight"/>
