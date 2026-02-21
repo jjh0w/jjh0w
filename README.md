@@ -37,11 +37,6 @@
 # 📊 Estatísticas
 
 <p align="center">
-  <img height="170" src="https://gh-readme-stats.hackclub.dev/api?username=jjh0w&show_icons=true&theme=dark"/>
-  <img height="170" src="https://gh-readme-stats.hackclub.dev/api/top-langs/?username=jjh0w&layout=compact&theme=dark"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=jjh0w&theme=dark&hide_border=true"/>
 </p>
 
