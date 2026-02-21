@@ -1,17 +1,29 @@
-<!-- WARP SPEED -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="500">
-</p>
-
 <!-- SPACE BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2B,40:5F00BA,70:4FD1FF,100:FFFFFF&height=220&section=header&text=Jhonatan%20%7C%20Game%20Developer&fontSize=40&fontColor=4FD1FF&animation=fadeIn" />
 </p>
 
-<!-- VISIT COUNTER -->
+<!-- SPACE GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="300">
+</p>
+
+---
+
+<!-- PROFILE VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jjh0w&color=4FD1FF&style=for-the-badge"/>
 </p>
+
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity"/>
+  <img src="https://img.shields.io/badge/Code-C%23-239120?style=for-the-badge&logo=csharp"/>
+  <img src="https://img.shields.io/badge/Focus-Game%20Development-5F00BA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Gameplay%20Systems-4FD1FF?style=for-the-badge"/>
+</p>
+
+---
 
 <!-- TYPING -->
 <p align="center">
