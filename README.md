@@ -3,13 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2B,40:5F00BA,70:4FD1FF,100:FFFFFF&height=220&section=header&text=Jhonatan%20%7C%20Desenvolvedor%20de%20Jogos&fontSize=40&fontColor=4FD1FF&animation=fadeIn" />
 </p>
 
-<!-- SPACE GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="300">
-</p>
-
----
-
 <!-- PROFILE VIEWS -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jjh0w&color=4FD1FF&style=for-the-badge"/>
