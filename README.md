@@ -31,10 +31,11 @@
 
 # 🌌 Sobre Mim
 
-🎮 Desenvolvedor focado em **criação de jogos**
-💻 Estudando **C#, Unity, C, JavaScript, HTML e CSS**
-🚀 Construindo **sistemas de gameplay e protótipos experimentais**
-📚 Evoluindo constantemente em **Game Development**
+🎮 Foco em **Desenvolvimento de Jogos**<br>
+💻 Estudando **C#, Unity, C, JavaScript, HTML e CSS**<br>
+🚀 Desenvolvimento de **sistemas de gameplay e protótipos**<br>
+🧠 Aprendendo e aprimorando conhecimentos em **Game Development**<br>
+🕹️ Interesse em **mecânicas, física, movimento e IA**
 
 ---
 
@@ -64,10 +65,11 @@
 
 # 🚀 Projetos
 
-🎮 **Jogos 2D feitos com Unity**
-🧪 Protótipos de **mecânicas de gameplay**
-⚙️ Sistemas e **algoritmos em C e C#**
-🕹️ Experimentos com **física, movimento e IA**
+🎮 **Jogos 2D** desenvolvidos com Unity<br>
+🧪 **Protótipos de gameplay** e experimentação de mecânicas<br>
+⚙️ **Sistemas e algoritmos** desenvolvidos em C e C#<br>
+🕹️ Experimentos com **física e movimentação**<br>
+🤖 Implementação e estudo de **sistemas de IA**
 
 ---
 
