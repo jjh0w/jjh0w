@@ -117,18 +117,6 @@
   <img src="https://img.shields.io/badge/Sistema-Galáxia%20Online-4FD1FF?style=for-the-badge&logo=github"/>
 </p>
 
-<p align="center">
-⭐ 🌌 ⭐ 🌌 ⭐ 🌌 ⭐ 🌌 ⭐
-</p>
-
----
-
-# ⭐ Detalhes do Perfil
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjh0w&theme=tokyonight"/>
-</p>
-
 ---
 
 <p align="center">
