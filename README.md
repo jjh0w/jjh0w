@@ -1,14 +1,17 @@
 <!-- SPACE BANNER -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F2B,40:5F00BA,70:4FD1FF,100:FFFFFF&height=220&section=header&text=Jhonatan%20%7C%20Desenvolvedor%20de%20Jogos&fontSize=40&fontColor=4FD1FF&animation=fadeIn" />
 </p>
 
 <!-- PROFILE VIEWS -->
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jjh0w&color=4FD1FF&style=for-the-badge"/>
 </p>
 
 <!-- BADGES -->
+
 <p align="center">
   <img src="https://img.shields.io/badge/Engine-Unity-black?style=for-the-badge&logo=unity"/>
   <img src="https://img.shields.io/badge/Código-C%23-239120?style=for-the-badge&logo=csharp"/>
@@ -19,17 +22,18 @@
 ---
 
 <!-- TYPING -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=4FD1FF&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+Unity;Programador+C%23;Criando+Jogos;Explorando+Novos+Mundos+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=4FD1FF&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+Unity;Programador+C%23;Criando+Jogos;Explorando+Novos+Mundos+🚀" />
 </p>
 
 ---
 
 # 🌌 Sobre Mim
 
-🎮 Desenvolvedor focado em **criação de jogos**  
-💻 Estudando **C#, Unity, C, JavaScript, HTML e CSS**  
-🚀 Construindo **sistemas de gameplay e protótipos experimentais**  
+🎮 Desenvolvedor focado em **criação de jogos**
+💻 Estudando **C#, Unity, C, JavaScript, HTML e CSS**
+🚀 Construindo **sistemas de gameplay e protótipos experimentais**
 📚 Evoluindo constantemente em **Game Development**
 
 ---
@@ -60,9 +64,9 @@
 
 # 🚀 Projetos
 
-🎮 **Jogos 2D feitos com Unity**  
-🧪 Protótipos de **mecânicas de gameplay**  
-⚙️ Sistemas e **algoritmos em C e C#**  
+🎮 **Jogos 2D feitos com Unity**
+🧪 Protótipos de **mecânicas de gameplay**
+⚙️ Sistemas e **algoritmos em C e C#**
 🕹️ Experimentos com **física, movimento e IA**
 
 ---
@@ -70,6 +74,9 @@
 # 🌐 Conecte-se Comigo
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/jhonatannavarro/">
+    <img src="https://img.shields.io/badge/LinkedIn-0B0F2B?style=for-the-badge&logo=linkedin&logoColor=4FD1FF"/>
+  </a>
   <a href="https://www.instagram.com/jjh0w/">
     <img src="https://img.shields.io/badge/Instagram-0B0F2B?style=for-the-badge&logo=instagram&logoColor=4FD1FF"/>
   </a>
